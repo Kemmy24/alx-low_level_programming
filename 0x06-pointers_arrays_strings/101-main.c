@@ -1,7 +1,6 @@
 #include "main.h"
 
 /**
- * main - check the code
  * print_number - print numbers char
  * Return: Always 0.
  */
